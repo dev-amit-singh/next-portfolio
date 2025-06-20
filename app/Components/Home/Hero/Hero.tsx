@@ -13,7 +13,7 @@ const Hero = () => {
                 {/* text  */}
                 <div>
                     <h1 data-aos="fade-left" className='text-2xl md:text-3xl lg:text-4xl font-semibold text-gray-300'>
-                        Hello, I'm <span className='text-[#f5a623]'>Amit Singh</span>
+                        Hello, I&rsquo;m <span className='text-[#f5a623]'>Amit Singh</span>
                     </h1>
                     <h1 data-aos="fade-right" data-aos-delay="100" className='text-bg text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold md:leading-[3rem] lg:leading-[3.5rem] xl:leading-[4rem] text-white'>
                        Full Stack Web Developer
