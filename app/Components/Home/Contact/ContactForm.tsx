@@ -5,7 +5,7 @@ const ContactForm = () => {
   return (
     <div className='bg-[#140c1c] rounded-lg p-4 sm:p-10 '>
         <h1 className='text-bg text-2xl md:text-3xl lg:text-[2.5rem] font-bold'>
-            Let's Work Together
+            Let&rsquo;s Work Together
         </h1>
         <p className='text-gray-200 mt-3 lg:text-base text-xs md:text-sm'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita minima odit nemo, temporibus cumque?</p>
         <form className='mt-8 block w-full overflow-hidden'>
