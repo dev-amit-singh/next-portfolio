@@ -23,7 +23,7 @@ const Hero = () => {
                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam consequuntur tempore suscipit dolorem voluptatem sequi non fuga eligendi? Ipsam, sunt.
                     </p>
                     <button data-aos="zoom-in" data-aos-delay="300" className='md:px-8 md:py-2.5 px-6 py-1.5 text-white font-semibold text-sm md:text-lg transition all duration-200 rounded-lg mt-8 bg-blue-700 hover:bg-blue-900 flex items-center'>
-                        <span>Download Cv</span>
+                       <a href="https:"https://drive.google.com/file/d/1tvxnDoHwgvHprRIOMfHG6Lq-zi4mnWee/view?usp=drivesdk">Visit W3Schools.com!</a>
                         <FaDownload className='ml-[3px]'/>
                     </button>
                 </div>
