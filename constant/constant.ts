@@ -11,7 +11,7 @@ export const navlinks = [
     },
     {
      id : 3,
-     url : "services#",
+     url : "#services",
      lable : "Services",
     },
     {
