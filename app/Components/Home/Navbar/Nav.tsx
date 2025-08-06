@@ -1,7 +1,6 @@
 'use client'
 
 import React from 'react'
-import Link from 'next/link'
 import Image from 'next/image'
 import { navlinks } from '@/constant/constant'
 import { GiHamburgerMenu } from "react-icons/gi"
@@ -34,9 +33,6 @@ const Nav = ({ openNav }: Props) => {
           <div className='hidden lg:flex items-center space-x-8'>
             {navlinks.map((navlink) => {
               return (
-                // <Link key={navlink.id} href={navlink.url}>
-                //   <p className='nav_link'>{navlink.lable}</p>
-                // </Link>
                 <a key={navlink.id} href={navlink.url} className='nav_link cursor-pointer'>
                   {navlink.lable}
                 </a>
