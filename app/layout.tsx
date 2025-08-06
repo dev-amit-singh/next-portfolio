@@ -21,7 +21,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="custom-scroll cursor-default">
+    <html lang="en" className="custom-scroll scroll-smooth cursor-default">
       <body className={font.className}>
         <ResponsiveNav />
         {children}
