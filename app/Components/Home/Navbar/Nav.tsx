@@ -33,6 +33,7 @@ const Nav = ({ openNav }: Props) => {
           <div className='hidden lg:flex items-center space-x-8'>
             {navlinks.map((navlink) => {
               return (
+                
                 <a key={navlink.id} href={navlink.url} className='nav_link cursor-pointer'>
                   {navlink.lable}
                 </a>
