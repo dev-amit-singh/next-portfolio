@@ -1,7 +1,6 @@
 'use client'
 
 import React from 'react'
-import Link from 'next/link'
 import Image from 'next/image'
 import { navlinks } from '@/constant/constant'
 import { GiHamburgerMenu } from "react-icons/gi"
